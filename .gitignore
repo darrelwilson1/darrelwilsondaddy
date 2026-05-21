@@ -1,4 +1,9 @@
 node_modules/
-submissions.json
+.next/
+out/
+build/
 .DS_Store
 .env
+.env*.local
+.agents/
+.claude/
